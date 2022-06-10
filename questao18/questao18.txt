@@ -1,0 +1,3 @@
+Modifique o método add(x) da ScapegoatTree para que ele não perca tempo recalculando
+os tamanhos de subárvores que já foram computados. Isso é possível porque, no momento em
+que o método deseja calcular size(w), ele já calculou um dos size(w.left) ou size(w.right).

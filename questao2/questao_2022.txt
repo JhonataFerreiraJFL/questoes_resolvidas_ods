@@ -1,0 +1,3 @@
+Modifique a implementação da ArrayStack para que a estrutura tenha um limite de
+capacidade de armazenar elementos dado por max. Esse deve ser um parâmetro opcional da
+criação da estrutura, caso seja atingido este limite, a estrutura deve emitir mensagem de erro.

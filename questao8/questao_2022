@@ -1,0 +1,4 @@
+Implemente a função split() na classe dllist que devolve uma nova dllist com a primeira metade
+dos elementos da lista original. A lista original deve perder esses elementos, ficando também com metade
+dos elementos. Ex: Se a dllist A possui os elementos 2, 3, 5, 7, 11, a função devolve uma dllist 2, 3, 5 e
+deixa A com os elementos 7, 11.

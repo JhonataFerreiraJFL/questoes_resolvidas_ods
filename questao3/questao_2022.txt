@@ -1,0 +1,4 @@
+Escreva um método SkiplistList, absorb(l 2 ), que toma como argumento uma SkiplistList,
+l 2 , esvazia-a e anexa seu conteúdo, em ordem, ao receptor. Por exemplo, se l 1 contiver a, b, c e
+l 2 contém d, e, f , depois de chamar l 1 .absorb(l 2 ), l 1 conterá a, b, c, d, e, f e l 2 estará vazia. Esse
+método deve ser executado em um tempo O(log n).

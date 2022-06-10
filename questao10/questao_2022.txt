@@ -1,0 +1,3 @@
+Escreva uma função remove subarvore(x) para a BinarySearchTree que deleta a sub-árvore
+com raiz no nó de valor x. Você deve garantir que o valor de n, o tamanho da árvore, permaneça correto
+após a execução da função.

@@ -1,0 +1,2 @@
+Baseado nas operações de uma Árvore Binária de Busca, descreva um algoritmo que
+conte o número de folhas da árvore que são filhos esquerdos de seus respectivos pais.

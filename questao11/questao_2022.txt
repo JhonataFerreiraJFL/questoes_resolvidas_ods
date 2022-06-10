@@ -1,0 +1,3 @@
+Projete e implemente um método para a SLList, reverse() que inverte a ordem dos
+elementos em SLList. Este método deve ser executado em tempo O(n), não deve usar recursão,
+não deve usar nenhuma estrutura de dados secundária e não deve criar novos nós.

@@ -1,0 +1,6 @@
+Escreva uma função troca(x,y) para a SLList que troque de posição os nós que contenham os
+valores x e y. A função deve trocar a posição dos nós sem modificar os valores que eles contêm, assim,
+por exemplo, seja a lista L com o conteúdo (1,2,3,4,5,6,7,8), após o comando L.troca(3,8), a lista terá
+o conteúdo (1,2,8,4,5,6,7,3). A função não deve fazer nada se um dos elementos não existir na lista.
+ATENÇÃO: não troque o conteúdo dos nós, mas suas posições dentro da lista. Respostas que afetem
+os conteúdos dos nós não serão consideradas.

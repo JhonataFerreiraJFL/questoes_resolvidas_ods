@@ -1,0 +1,7 @@
+Quando a ordem dos elementos numa lista não é importante, frequentemente é
+utilizada uma técnica chamada ’move para frente’ que coloca o  ́ultimo item acessado para o
+início da lista. Modifique a implementação da DLList de modo que assim que elemento seja
+acessado por meio do get() ele seja colocado no início da lista. Esta técnica coloca os elementos
+mais acessados no início da lista, aumentando a velocidade de futuras operações de busca. Você
+deve fazer isso sem criar um novo nó ou modificar o valor do nó acessado (por ́em pode modificar
+outros campos), resumindo, você deve mudar o nó de posição.

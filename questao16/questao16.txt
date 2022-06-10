@@ -1,0 +1,4 @@
+Crie uma subclasse de BinaryTree cujos nós tenham campos para armazenar números
+de pré-ordem, pós-ordem, e em-ordem. Escreva os métodos recursivos numero preOrdem(),
+numero emOrdem(), e numero posOrdem() que atribua esses números corretamente. Esses
+métodos devem executar num tempo O(n).

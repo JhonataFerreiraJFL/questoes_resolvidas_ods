@@ -1,0 +1,2 @@
+Implemente o método remove(i), que remove o valor armazenado em a[i] em BinaryHeap.
+Este método deve ser executado em um tempo O(log n).

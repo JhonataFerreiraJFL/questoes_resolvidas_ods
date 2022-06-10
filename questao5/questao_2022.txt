@@ -1,0 +1,4 @@
+Escreva um método, truncate(i), que trunca uma SkiplistList na posição i. Após a execução
+deste método, o tamanho da lista é i e contém apenas os elementos nos ı́ndices 0, . . . , i − 1. O valor
+de retorno é outra SkiplistList que contém os elementos nos ı́ndices i, . . . , n − 1. Esse método deve ser
+executado em um tempo O(log n).

@@ -1,0 +1,11 @@
+a. Em um sistema de hashing por endereçamento aberto com sondagem linear qual a função
+dos elementos del nos algoritmos utilizados? Não basta repetir a definição do livro, você
+tem que explicar como esses elementos são utilizados pelos algoritmos.
+b. Quais são as vantagens e desvantagens do uso de tabelas de hash como estruturas de dados?
+c. Qual a vantagem ou desvantagem de uma lista implementada como uma skiplist em relação
+a uma lista comum?
+d. Em um hash multiplicativo, por que utiilizamos tabelas como potências de 2? Qual seria
+a consequência se a tabela fosse escolhida com um tamanho qualquer?
+e. Quantos elementos no máximo podem ser armazenados em uma RootishArrayStack composta
+de 200 blocos? Considerando esta lista cheia, quantos elementos devem ser retirados para
+que o algoritmo libere espaço de um bloco?

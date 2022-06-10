@@ -1,0 +1,6 @@
+Escreva um método impares() que remove todos os elementos com ı́ndices de números
+ı́mpares da DLList e retorna uma DLList contendo esses elementos. Por exemplo, se l1 contém
+os elementos a, b, c, d, e, f, depois de chamar l1.impares(), l1 deve conter a, c, e e uma lista
+contendo b, d, f deve ser devolvida. Você deve fazê-lo sem alocar novos nós ou nós temporários,
+sendo permitida apenas a criação de uma DLList vazia para inserir os nós retirados da DLList
+original. Tudo pode ser feito apenas alterando os valores prev e next dos nós existentes.

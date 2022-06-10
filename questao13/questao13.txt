@@ -1,0 +1,7 @@
+Escreva uma funçãoo remove varios(inicio, fim) para a estrutura ArrayDeque
+que apague todos os elementos da estrutura que estejam entre os  ́ındices inicio e fim, inclusive.
+Assim, dada uma lista teste, a chamada teste.remove varios(3, 6), apaga os elementos de
+índice 3, 4, 5 e 6 de teste. Sua função deve ser mais eficiente que a chamada consecutiva de
+remove() para cada elemento separadamente, ou seja, no exemplo dado, sua solução não pode
+simplesmente executar chamadas de remove para 3,4,5 e 6 consecutivamente. Caso algum índice
+seja inválido, a função deve emitir mensagem de erro.

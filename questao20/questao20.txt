@@ -1,0 +1,7 @@
+Modifique a implementação ArrayDeque para que ele não use o operador mod (que
+tem alto custo em alguns sistemas). Em vez disso, deve fazer uso do fato de que, se length(a) é
+uma potência de 2, então
+
+k mod length(a) = k ∧ (length(a) − 1) .
+
+(Aqui, ∧ é um operador bit-a-bit.)

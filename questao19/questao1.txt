@@ -1,0 +1,27 @@
+a)
+Na teoria os valores de del são locais de matriz onde os dados são armazenados uma vez,
+mas foram excluídos, porém ele vai além disso, ele funciona muito bem para o
+endereçamento aberto com sondagem linear pois quando utilizamos o método find
+(pesquisa) esse método vai procurar onde está localizado o dado a ser obtido, assim como, e
+diferente do hashing por encadeamento ele não fica exatamente no local em que o calculo
+da hashing faz, se aquele local estiver ocupado ele pode ser realocado para um outro vazio.
+Então como saberíamos que o dados que foi excluído foi exatamente aquele que era pra
+está armazenado ali? esses valores del, dão uma sugestão, mais que importante para o
+funcionamento desse processo de procura, pois se o dado está em modo del, ele vai
+continuar procurando no próximo nível até não ter mais espaço, ou modo nil nesse
+endereçamento.
+
+b) 
+A grande vantagem é o custo do método find que tem O(1), e a grande desvantagem é o custo em espaço.
+
+c) 
+As  vantagens da utilização de uma skiplist em relação a uma lista comum está nos métodos find, remove, e add, que na lista comum eles teriam que usar esses métodos com um custo O(n), e na skiplist é de O(log N), e a maior desvantagem seria no consumo de espaço.
+
+d)
+A potência de 2 é referente as operações que são facilitadas com o números binário, ou
+seja, bit-a-bit. São feitas em módulo 2^w onde w é o numero de bits em um número inteiro.
+Além disso, a divisão inteira de 2^(w-d) é equivalente a descartar os w-d bits mais à direita
+em uma representação binária.
+
+e)
+Deveria tirar 399 Elementos.

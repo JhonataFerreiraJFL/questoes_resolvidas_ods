@@ -1,0 +1,6 @@
+Implemente um método obtemMenorOuIgual(x), para a BinarySearchTree, que retorne
+uma lista de todos os itens em uma árvore que sejam menores que ou iguais a x. O tempo de
+execução do seu método deve ser O(n’ + h) ou melhor, no qual n’ é o número de itens menores
+que ou iguais a x e h é a altura da árvore. (Prestem atenção no tempo de execução. Uma forma
+simples e ineficiente de implementar isso seria fazer chamadas sucessivas à função de busca, mas
+isto colocaria o tempo de execução em O(h + n’ × log n).

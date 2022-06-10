@@ -1,0 +1,11 @@
+Escreva uma função particiona(x) para a SLList que particiona a SLList em torno
+do valor x de modo que todos os nós com valores menores que x estejam antes de todos os
+valores maiores ou iguais a x. Se o elemento particionador x existir na lista, os valores de x só
+precisam aparecer após os elementos menores que x. O elemento particionador pode aparecer
+em qualquer posição na partição “direita”, não precisando, portanto aparecer entre as partições
+esquerda e direita. Considere que os elementos não precisam estar na mesma ordem relativa
+original, só é necessário garantir que os elementos menores que o particionador estejam antes
+dos elementos maiores que o particionador.
+Ex:
+Lista original: 3 → 5 → 8 → 5 → 10 → 2 → 1, após a chamada lista.particiona(5), temos
+Lista final : 3 → 1 → 2 → 10 → 5 → 5 → 8
